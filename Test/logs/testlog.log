@@ -1,0 +1,8 @@
+2018-07-18 10:15:59,396 - LoggingExample - ERROR - File Not Found
+java.io.FileNotFoundException: C:\Users\pallav.r.chaturvedi\Desktop\NewPage.html (The system cannot find the path specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(Unknown Source)
+	at java.base/java.io.FileInputStream.<init>(Unknown Source)
+	at java.base/java.io.FileInputStream.<init>(Unknown Source)
+	at LoggingExample.LoggingSample.main(LoggingSample.java:18)
+2018-07-18 10:15:59,411 - LoggingExample - WARN - This is a warning message
